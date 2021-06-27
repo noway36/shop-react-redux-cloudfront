@@ -43,9 +43,9 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "serverless": "^2.29.0",
-    "serverless-finch": "^2.6.0",
     "typescript": "~3.7.2",
-    "yup": "^0.29.1"
+    "yup": "^0.29.1",
+    "serverless-finch": "^2.6.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
