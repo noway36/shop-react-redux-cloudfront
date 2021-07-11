@@ -1,3 +1,8 @@
+## Deployment Links
+
+1) [s3](http://shop-react-redux-cloudfront.s3-website-eu-west-1.amazonaws.com/)
+2) [CloudFront](https://d1mj375gxygqlt.cloudfront.net/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
